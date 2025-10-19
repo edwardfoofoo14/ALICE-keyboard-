@@ -14,7 +14,7 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 
 It is currenly 8:40pm 19/10/2025, I have started making the concept to my keyboard and plan to fully deep dive into this project starting tomorrow. 
 
-I have also done the follow
+I have also done the following
 -install CAD
 -learned rerouting PCBS
 -decided on the ALICE LAYOUT
