@@ -23,3 +23,25 @@ I have also done the following
 ![project.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--01aff3688ad0df41abc0df37ba8272a20f1b49f0/project.png)
   
 
+## 10/20/2025 - Day 1 : Schematic done  
+
+Had some free time after running and drafted out the first schematic! 
+
+I've decided to commit to the 75% format as well as the ALICE I had originally intended, the build will be plastic milled (hopefully) and will feature LED (compatible under VIA) and have hot-swap sockets to make it convenient to modify in the future. It will also be gasket mounted to eliminate possible damage to the PCB through contact with screws.
+
+The proudest feature would definitely have to be the K N O B. All hail the K N O B.
+
+As for the specifications it hasn't been CADed so it'll be in the ballpark of my Keychron V1 MAX of 
+40cm x 20cm x 5cm
+
+note: i don't think i will include bluetooth and a battery because it is too complex for a beginner such as I. Tomorrow I shall CAD and try to design a PCB for it
+
+
+
+
+
+
+![schematic.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--56ded6a6feece6dff1153e47495070f76cbb1b61/schematic.png)
+![time.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--fdb2fa741b33c091a90498d6e61d233a54157728/time.png)
+  
+
