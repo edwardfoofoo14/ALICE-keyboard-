@@ -23,7 +23,7 @@ I have also done the following
 ![project.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--01aff3688ad0df41abc0df37ba8272a20f1b49f0/project.png)
   
 
-## 10/20/2025 - Day 1 : Schematic done  
+## 10/20/2025 - Day 1 : General outline done  
 
 Had some free time after running and drafted out the first schematic! 
 
