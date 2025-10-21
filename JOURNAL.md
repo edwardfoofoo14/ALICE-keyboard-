@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **ALICE keyboard**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/743).
-
-
 ## 10/19/2025 - started my journey!  
 
 It is currenly 8:40pm 19/10/2025, I have started making the concept to my keyboard and plan to fully deep dive into this project starting tomorrow. 
@@ -43,5 +39,23 @@ note: i don't think i will include bluetooth and a battery because it is too com
 
 ![schematic.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--56ded6a6feece6dff1153e47495070f76cbb1b61/schematic.png)
 ![time.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--fdb2fa741b33c091a90498d6e61d233a54157728/time.png)
+  
+
+## 10/21/2025 - Day 2 : finished the schematics  
+
+After checking, double checking, and triple checking, it works!
+
+This took a long time because this was my first time making pcbs, I had to look up countless guides, youtube videos, and various materials, huge thanks to the FateNozomi (creator of the Arisu) for making the files public and also MrKeebs who let me mess around with KLE. At the end of the day the schematics features a relatively simple design with 84 switches and LEDS.
+![tfwschematics.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDAyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--64d5f951df4b9e8775557790e8a21c836206d9dc/tfwschematics.jpg)
+
+
+
+Note: I was struggling like a buffoon before I asked for help from my friend Anson at hour 6 so thanks to him too for helping with the power components!
+
+
+With that day 2 is done and I shall make the actual PCB tomorrow.
+
+![schematics.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDAyMywicHVyIjoiYmxvYl9pZCJ9fQ==--cf821ae185a4f4fa6790d11faa25ef54a7927959/schematics.png)
+![time2.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDAyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--ff639254836a406a4122133346f622b99094a314/time2.png)
   
 
