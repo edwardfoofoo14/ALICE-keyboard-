@@ -63,5 +63,6 @@ With that day 2 is done and I shall make the actual PCB tomorrow.
 
 There were a few kinks to knock out from the previous day, but the main issue for today was getting used to the PCB editor on Kicad, I spent around 1 hour just having a nervous breakdown on why my components aren't lying on the grid, and because of the weird tilt that half the keyboard has there were lots of intersections that didnt look the nicest.
 ![pcb.png.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYxMywicHVyIjoiYmxvYl9pZCJ9fQ==--580a0e0df35d0b31384982285d2183cca63f93f4/pcb.png.jpg)
+![time3.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--85bb14c4e37ccd6a2df342914b181462a62bcf05/time3.png)
   
 
