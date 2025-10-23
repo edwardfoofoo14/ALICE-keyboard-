@@ -59,10 +59,23 @@ With that day 2 is done and I shall make the actual PCB tomorrow.
 ![time2.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDAyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--ff639254836a406a4122133346f622b99094a314/time2.png)
   
 
-## 10/23/2025 - Day 3: Finished the rough outline of the PCB  
+## 10/23/2025 10 AM - Day 3: Finished the rough outline of the PCB  
 
 There were a few kinks to knock out from the previous day, but the main issue for today was getting used to the PCB editor on Kicad, I spent around 1 hour just having a nervous breakdown on why my components aren't lying on the grid, and because of the weird tilt that half the keyboard has there were lots of intersections that didnt look the nicest.
 ![pcb.png.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYxMywicHVyIjoiYmxvYl9pZCJ9fQ==--580a0e0df35d0b31384982285d2183cca63f93f4/pcb.png.jpg)
 ![time3.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--85bb14c4e37ccd6a2df342914b181462a62bcf05/time3.png)
+  
+
+## 10/23/2025 4 PM - Day 3.5: Polished everything  
+
+Backtracked to my last successful attempt and tried to implement some stuff because some pcbs online had nasty intersection, still took a long time as I had to redo the schematic and add a function key, as of right now I just have to finish placing the other components and begin wiring to finish the PCB.
+
+Unrelated note: I have worked out in my head several designs for the keyboard, I was thinking of engraving a panel Initial D to the back as well as add some design to the top right seeing as now I have space, the only thing left would be the sides, traditionally keyboards dont feature designs on the side but I'll see how it goes![finished outline.png.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDY4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--166ffb9719a95ba973c7626f3b1fe9d609836828/finished%20outline.png.jpg)
+![time4.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDY4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--695e8174bed4049a1bcf24ea19b2d1bb8f638781/time4.png)
+[engraving on the back]
+![design1.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDY4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--a36d3ef355e34e5dff2b7f2d2601022f9f416776/design1.png)
+[design on the function row]
+![design2.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDY4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--120a89af202a639c119f6e73dd5f1f82fe6fb3ce/design2.png)
+
   
 
