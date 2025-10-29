@@ -79,3 +79,12 @@ Unrelated note: I have worked out in my head several designs for the keyboard, I
 
   
 
+## 10/29/2025 - Redid the entire layout and tweaked PCB  
+
+Had a bunch of issues that needed to be corrected, this is again because of the unique layout of ALICE. I had to scratch my old layout because of alignment issues so I redid it all on KLE and came up with the following. This was to ensure a smoother process in the future when making my plat and designing my cases, still figuring out the wiring.
+
+Other than that I haven't been doing much journalling because it is exam season and my priorities must be made.
+
+![KLE ITEMS](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--0cf427fef97c1fd02eec5d16b96622d8282fc0b4/KLE%20ITEMS.png)
+  
+
