@@ -88,7 +88,7 @@ Also I had to tweak some stuff in my schematic because the placements for the sw
 ![KLE ITEMS](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--0cf427fef97c1fd02eec5d16b96622d8282fc0b4/KLE%20ITEMS.png)
   
 
-## 10/30/2025 - Had my plate done  
+## 10/30/2025 - Day 4.5: Had my plate done  
 
 Light day but still somehow took an hour, I was scouring the internet because the plate generator from the hackpad guide wasn't good enough for me so I had to find another. Other than that I had to change the LED's on my board because the ones I used weren't the correct ones.
 ![plate](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjYzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--b21e37fe91eb875cd2d2802003a0221e445f31f7/plate.png)
