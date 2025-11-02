@@ -94,3 +94,13 @@ Light day but still somehow took an hour, I was scouring the internet because th
 ![plate](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjYzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--b21e37fe91eb875cd2d2802003a0221e445f31f7/plate.png)
   
 
+## 11/2/2025 - Day 5: Resolved the issues of the plate  
+
+The previous plate generator I used could not account for the tilt and left some of the bottom stabiliser out, I resolved this through using a different website and added some gasket mounts in Autodesk.
+
+The 3d modelling part took embarrassingly long because my computer was running slow and Fusion 360 wasn't behaving the way I wanted it too.
+
+Other than that I had also switched out the sockets from my old design on Kicad to ones that support hotswap to save me from a headache in the future.![time5](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--bf575ea68bdc3996c15a0d9709bf38048138d79c/time5.png)
+![pcbplate](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--d0ad21ff185b436892966452c034f52ba1db622c/pcbplate.png)
+  
+
