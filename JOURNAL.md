@@ -104,3 +104,9 @@ Other than that I had also switched out the sockets from my old design on Kicad 
 ![pcbplate](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--d0ad21ff185b436892966452c034f52ba1db622c/pcbplate.png)
   
 
+## 11/4/2025 - Day 5.5: Redid the plate  
+
+There was some issues regarding width of the previous plate so I made all borders at least 4mm, I also spent some time looking up the dimensions of my case and I'm starting to get some ideas on how to do it for tomorrow. It is still quite unfortunate this took such a long time to accomplish.
+![pcbplate2](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI4MywicHVyIjoiYmxvYl9pZCJ9fQ==--b5cef6c04f612a8f8d62b80edb8cb7bae9ca9387/pcbplate2.png)
+  
+
