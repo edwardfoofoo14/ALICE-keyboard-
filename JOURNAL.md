@@ -110,3 +110,16 @@ There was some issues regarding width of the previous plate so I made all border
 ![pcbplate2](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI4MywicHVyIjoiYmxvYl9pZCJ9fQ==--b5cef6c04f612a8f8d62b80edb8cb7bae9ca9387/pcbplate2.png)
   
 
+## 11/10/2025 - Day 6: back to square 1, redid the layout  
+
+I have gotten ahold of the step files for the keycaps and saw in the 3d viewer there was too much space between the tilted and non-tilted keys so I booted up KLE and worked on it, the fix wasn't and still isn't pretty but it will work for now. I really do hope the models are accurate otherwise the whole project will end in failure.
+
+![fixed](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--5c3c67de2bcc5bc4708cbea8b977d9075ebb0ddd/fixed.png)
+
+as you can see from the photo above the keys on the top left resemble a receding hairline while the bottom right keys resemble the titanic and the iceberg
+
+Unrelated note: MY EXAMS ARE OVER!!! I can spend the next week or so building SELENE and hopefully be done by the end of the week and get into contact with chinese suppliers to fix any additional issues before shipping my projcet.
+
+![goober3](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk5OCwicHVyIjoiYmxvYl9pZCJ9fQ==--fab4a0d5dff1ecb979737c6721d625b3238bbabe/goober3.png)
+  
+
