@@ -1,5 +1,5 @@
 This is my SELENE, my project for the Blueprint Hack Club event!
-The board itself is using an ALICE layout but with added F rows, it is inspired by Dante from Devil May Cry (cus hes my favourite). It uses a stacked acrylic format which I took inspiration from Adelheid, and Arisu which are both Alice keyboards. The stacked acrylic mentioned is a collection of 10, 3mm, A# sized, machine cut acrylic plates screwed together, I chose this method in particular because the material will generate a "clackier" sound profile and is also more cost effective that other methods.
+The board itself is using an ALICE layout but with added F rows, it is inspired by Dante from Devil May Cry (cus hes my favourite). It uses a stacked acrylic format which I took inspiration from Adelheid, and Arisu which are both Alice keyboards. The stacked acrylic mentioned is a collection of 10, 3mm, A3 sized, machine cut acrylic plates screwed together, I chose this method in particular because the material will generate a "clackier" sound profile and is also more cost effective that other methods.
 
 
 Please find attached the following, pcb, plate and case.
