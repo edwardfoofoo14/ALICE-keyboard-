@@ -1,6 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "hotswap")(type "KiCad")(uri "${KIPRJMOD}/Footprints/hotSwap")(options "")(descr ""))
-  (lib (name "custom")(type "KiCad")(uri "${KIPRJMOD}/Footprints/Library.pretty")(options "")(descr ""))
-  (lib (name "customMore")(type "KiCad")(uri "${KIPRJMOD}/Footprints")(options "")(descr ""))
-)
