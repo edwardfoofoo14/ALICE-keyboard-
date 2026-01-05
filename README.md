@@ -20,7 +20,25 @@ Case:
 <img width="1243" height="563" alt="image" src="https://github.com/user-attachments/assets/3a69d9f0-f8ed-49b9-bae0-51f5bfe891f6" />
 Note: My plate and case are both in dxf forms and I may still shift things around as I see fit. Also, don't use the .json from the pcb to generate a plate it will not work, use the attached plate.dxf instead.
 
+To assemble the keyboard the items required are
+-10xA3 acrylic boards (3mm)
+-1xA3 acrylic board (2mm)
+-Poron gaskets(3mm thickness)
+-6x each of M5, 35mm screws & M5 nuts 
 
+Use the dxfs in the dxf folder
+Cut the 10 3mm boards from plate 1 to plate 10
+
+Cut the 2mm board for the main plate
+
+To assemble, place each numbered board from the bottom up. E.g. plate 1 is stacked first followed by plate and so on.
+By the second plate, secure the daughterboard and add the poron gaskets to the spaces that stick out. After that, place the keyboard plate on top with the pcb attached.
+Repeat the sticking of poron gaskets but this time on the top surface. Continue layering from plate 3-10.
+
+To secure the board, use the screws to skewer the whole thing, ideally with the nuts on the bottom side.
+
+An important thing to note would be to afix your stabilisers switches to the plate and PCB before assembly as there is nothing to join the pcb and plate together.
+Also for plate 2 and 10 there are my personal designs, you can add your own if you want or just make sure you remove it if you don't want my design.
 
 
 
