@@ -1,48 +1,90 @@
+# SELENE
+
 This is my SELENE, my project for the Blueprint Hack Club event!
-The board itself is using an ALICE layout but with added F rows, it is inspired by Dante from Devil May Cry (cus hes my favourite). It uses a stacked acrylic format which I took inspiration from Adelheid, and Arisu which are both Alice keyboards. The stacked acrylic mentioned is a collection of 10, 3mm, A3 sized, machine cut acrylic plates screwed together, I chose this method in particular because the material will generate a "clackier" sound profile and is also more cost effective that other methods.
 
+The board uses an ALICE layout with added F rows, inspired by Dante from Devil May Cry (my favourite character). The case follows a stacked acrylic design, taking inspiration from Adelheid and Arisu, both ALICE style keyboards.
 
-Please find attached the following, pcb, plate and case.
+The stacked acrylic case consists of 10 machine cut acrylic plates, each 3 mm thick and A3 sized, screwed together. I chose this construction because acrylic produces a clackier sound profile and is more cost effective than many alternative case materials.
 
+---
+
+## Files Included
+- PCB  
+- Plate  
+- Case 
+- Simulation code and diagram 
+
+Cool graphics showing each layers of the acrylic
 ![kbgif](https://github.com/user-attachments/assets/0bb15f28-e83b-459c-93e2-d73cd470ae87)
 
+---
 
-PCB:
+## PCB
+
 Note: it is quite rudimentary because a keyboard isn't the most complicated thing in the world.
-<img width="1281" height="554" alt="image" src="https://github.com/user-attachments/assets/88e76a02-d105-4d6d-bdbd-e832759f43a7" />
-Also linked are the schematics, the image doesn't show the full thing because most of it is the same. The images captures a little bit of everything with LED components at the top, Switches in the bottom right and power management on the left.
-<img width="1263" height="645" alt="image" src="https://github.com/user-attachments/assets/3788fd83-e471-42dc-b169-522ccd5474de" />
 
-Plate:
-Note: its going to be shinier in real life :D
-<img width="1067" height="489" alt="image" src="https://github.com/user-attachments/assets/3d7f8136-6c32-4ebe-b1a6-5192f934c024" />
+![PCB Layout](https://github.com/user-attachments/assets/88e76a02-d105-4d6d-bdbd-e832759f43a7)
 
+Overview of the schematic
 
-Case:
-<img width="1243" height="563" alt="image" src="https://github.com/user-attachments/assets/3a69d9f0-f8ed-49b9-bae0-51f5bfe891f6" />
-Note: My plate and case are both in dxf forms and I may still shift things around as I see fit. Also, don't use the .json from the pcb to generate a plate it will not work, use the attached plate.dxf instead.
+![Schematic](https://github.com/user-attachments/assets/82593646-6d9b-4115-b2e0-ee5dc3088dde)
 
-To assemble the keyboard the items required are
--10xA3 acrylic boards (3mm)
--1xA3 acrylic board (2mm)
--Poron gaskets(3mm thickness)
--6x each of M5, 35mm screws & M5 nuts 
+---
 
-Use the dxfs in the dxf folder
-Cut the 10 3mm boards from plate 1 to plate 10
+## Plate
 
-Cut the 2mm board for the main plate
+Note: The plate will be shinier in real life :D
 
-To assemble, place each numbered board from the bottom up. E.g. plate 1 is stacked first followed by plate and so on.
-By the second plate, secure the daughterboard and add the poron gaskets to the spaces that stick out. After that, place the keyboard plate on top with the pcb attached.
-Repeat the sticking of poron gaskets but this time on the top surface. Continue layering from plate 3-10.
+![Plate](https://github.com/user-attachments/assets/3d7f8136-6c32-4ebe-b1a6-5192f934c024)
 
-To secure the board, use the screws to skewer the whole thing, ideally with the nuts on the bottom side.
+---
 
-An important thing to note would be to afix your stabilisers switches to the plate and PCB before assembly as there is nothing to join the pcb and plate together.
-Also for plate 2 and 10 there are my personal designs, you can add your own if you want or just make sure you remove it if you don't want my design.
+## Case
 
+![Case](https://github.com/user-attachments/assets/3a69d9f0-f8ed-49b9-bae0-51f5bfe891f6)
 
+Note:
+- Both the plate and case are provided as DXF files, and dimensions may still be adjusted.
 
+---
 
+## Parts Required
+- 10x A3 acrylic sheets (3 mm)
+- 1x A3 acrylic sheet (2 mm)
+- Poron gaskets (3 mm thickness)
+- 6x M5 x 35 mm screws
+- 6x M5 nuts
 
+---
+
+## Cutting Instructions
+- Use the DXF files located in the dxf folder
+- Cut plates 1–10 from the 3 mm acrylic
+- Cut the main plate from the 2 mm acrylic
+
+---
+
+## Assembly Instructions
+1. Stack the numbered plates from bottom to top  
+   - Plate 1 goes first, followed by plate 2, and so on
+2. On plate 2:
+   - Secure the daughterboard
+   - Add Poron gaskets to the protruding sections
+3. Place the keyboard plate on top with the PCB attached
+4. Apply Poron gaskets again on the top surface
+5. Continue stacking plates 3–10
+6. Secure the entire assembly using the screws, ideally with the nuts on the bottom side
+
+---
+
+## Important Notes
+- Attach stabilisers and switches to the plate and PCB before assembly, as there is no direct mounting mechanism between them
+- Plates 2 and 10 include my personal designs  
+  - You may replace these with your own or remove them entirely if desired
+
+---
+
+## Simulation
+The Wokwi simulation follows the exact ESP32 pinout shown in the KiCad schematic:
+
+https://github.com/user-attachments/assets/cd191653-9d43-4bff-b9b6-e710f8436f32
