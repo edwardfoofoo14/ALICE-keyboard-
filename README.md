@@ -2,9 +2,7 @@
 
 This is my SELENE, my project for the Blueprint Hack Club event!
 
-The board uses an ALICE layout with added F rows, inspired by Dante from Devil May Cry (my favourite character). The case follows a stacked acrylic design, taking inspiration from Adelheid and Arisu, both ALICE style keyboards.
-
-The stacked acrylic case consists of 10 machine cut acrylic plates, each 3 mm thick and A3 sized, screwed together. I chose this construction because acrylic produces a clackier sound profile and is more cost effective than many alternative case materials.
+The board uses an ALICE layout with added F rows, it is inspired by Dante from Devil May Cry (my favourite character). It uses a stacked acrylic format which I took inspiration from Adelheid, and Arisu which are both Alice keyboards. The stacked acrylic mentioned is a collection of 10, 3mm, A3 sized, machine cut acrylic plates screwed together, I chose this method in particular because the material will generate a "clackier" sound profile and is also more cost effective that other methods.
 
 ---
 
@@ -59,28 +57,25 @@ Note:
 
 ## Cutting Instructions
 - Use the DXF files located in the dxf folder
-- Cut plates 1–10 from the 3 mm acrylic
+- Cut plates 1 to 10 from the 3 mm acrylic
 - Cut the main plate from the 2 mm acrylic
 
 ---
 
 ## Assembly Instructions
 1. Stack the numbered plates from bottom to top  
-   - Plate 1 goes first, followed by plate 2, and so on
 2. On plate 2:
-   - Secure the daughterboard
+   - Secure the USB C breakout board
    - Add Poron gaskets to the protruding sections
-3. Place the keyboard plate on top with the PCB attached
-4. Apply Poron gaskets again on the top surface
-5. Continue stacking plates 3–10
-6. Secure the entire assembly using the screws, ideally with the nuts on the bottom side
+3. Place the keyboard plate on top with the PCB already attached (switches snapped into respective holes in the plate)
+4. Apply adhesive Poron gaskets again on the top surface
+5. Continue stacking plates 3 to 10
+6. Secure the entire assembly using the screws, ideally with the nuts on the bottom side. The screws should skewer through the whole width of the keyboard.
 
 ---
 
 ## Important Notes
-- Attach stabilisers and switches to the plate and PCB before assembly, as there is no direct mounting mechanism between them
-- Plates 2 and 10 include my personal designs  
-  - You may replace these with your own or remove them entirely if desired
+An important thing to note would be to afix your stabilisers switches to the plate and PCB before assembly as there is nothing to join the pcb and plate together. Also for plate 2 and 10 there are my personal designs, you can add your own if you want or just make sure you remove it if you don't want my design.
 
 ---
 
@@ -88,3 +83,39 @@ Note:
 The Wokwi simulation follows the exact ESP32 pinout shown in the KiCad schematic:
 
 https://github.com/user-attachments/assets/cd191653-9d43-4bff-b9b6-e710f8436f32
+
+---
+
+## Bill of Material
+
+Note: The prices in USD are converted as of 7 January 2026 and prices may fluctuate
+
+| Category     | Item Name                  | Part Number / File Name       | Link                                                                                                                                                                                                                     | Vendor   | Quantity | Total Price (USD) |
+|--------------|----------------------------|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|----------|-----------------|
+| Electronics  | ESP32-S3-WROOM-1-N16-R2    | ESP32-S3-WROOM-1-N16-R2      | [Link](https://shopee.com.my/ESP32-S3-ESP32-S3-WROOM-1-1U-ESP32-S3-MINI-1U-4MB-8MB-16MB-N4-N4R2-N4R8-N8-N8R2-N8R8-N16-N16R2-N16R8-WiFi-Ble-5.0-Module-i.1649836180.43173884048)                                     | Shopee   | 1x       | 6.53            |
+| Electronics  | SK6812 MINI-E               |                              | [Link](https://shopee.com.my/100PCS-SK6812-MINI-E-RGB-(Similar-WS2812B)-SK6812-3228-SMD-Pixels-LED-Chip-Individually-Addressable-Full-Color-DC-5V-i.201200871.29163981070)                                                | Shopee   | 100x     | 2.80            |
+| Electronics  | 1206 100nF Capacitor        |                              | [Link](https://shopee.com.my/100pcs-1206-3216-SMD-Chip-Ceramic-Capacitor-1NF-2.2NF-10NF-22NF-100NF-1uF-2.2uF-4.7uF-10uF-22uF-47uF-100uF-6.3V-10V-16V-25V-50V-i.1649836180.51152484650)                             | Shopee   | 100x     | 0.35            |
+| Electronics  | Hotswap Sockets             |                              | [Link](https://shopee.com.my/redsunaa-Hot-Swap-Socket-For-Kailh-CPG151101S11-for-Mechanical-Keyboard-Switch-Pcb-Base-i.1336977141.27113734076)                                                                            | Shopee   | 100x     | 9.95            |
+| Electronics  | USB-C Breakout Board        |                              | [Link](https://shopee.com.my/Pcbfun-USB-Type-C-Connector-Board-DIY-3.1-Serial-Basic-Breakout-Female-Connector-Type-C-Breakout-Board-for-Data-Line-Wire-Cable-Transfer-i.175472467.29872006322)                               | Shopee   | 1x       | 0.80            |
+| Production   | PCB                         | gerbers.zip                  |                                                                                                                                                                                                                          | JLCPCB   | 1x       | 23.00           |
+| Production   | A3 Acrylic Plate            | A3_3mm_Acrylic               | [Link](https://shopee.com.my/-A3-SIZE-3mm-Acrylic-sheet-Ready-stock-Cast-acrylic-i.1161316960.41355571810)                                                                                                              | Shopee   | 10x      | 49.10           |
+| Production   | A3 Acrylic Plate            | A3_3mm_Acrylic               | [Link](https://shopee.com.my/-A3-SIZE-3mm-Acrylic-sheet-Ready-stock-Cast-acrylic-i.1161316960.41355571810)                                                                                                              | Shopee   | 1x       | 5.95            |
+| Fasteners    | M5*35mm Hex Screws          |                              | [Link](https://shopee.com.my/Button-Head-Screw-Black-304-Stainless-Steel-SHINY-SURFACE-Allen-Bolt-DIN7380-Skru-Ellenkey-Hex-Socket-Button-Head-Screw-ISO7380-SUS-Black-304-Stainless-Steel-Allen-Key-Screw-Mushroom-Skru-M2-M2.5-M3-M4-M5-M6-M8-*-L3-60mm-(ZHX-LD-MY-1)-i.1617822917.41220311575) | Shopee   | 10x      | 3.55            |
+| Fasteners    | M5 Nuts                     |                              | [Link](https://shopee.com.my/-HKH-Hexagon-Nut-M2-M2.5-M2.6-M3-M3.5-M4-M5-M6-M8-M10-M12-Black-arbon-Steel-Hexagon-Nut-Screw-Cap-i.1435573023.27623483039)                                                                 | Shopee   | 50x      | 0.55            |
+| Misc         | Stabilisers                 |                              | [Link](https://shopee.com.my/Kelowna-Link-Studio-PCB-Screw-in-Stabilizers-Mechanical-Keyboard-i.71961069.12272946569)                                                                                                   | Shopee   | 1x       | 7.40            |
+| Misc         | Gaskets                     |                              | [Link](https://shopee.com.my/Gasket-Strip-Poron-black-only-i.1034684783.25753214842)                                                                                                                                    | Shopee   | 1x       | 3.20            |
+| Shipping     | PCB Shipping                | E-POST                       |                                                                                                                                                                                                                          | JLCPCB   | 1x       | 9.87            |
+| Shipping     | Acrylic Shipping            | SPX Express                  |                                                                                                                                                                                                                          | Shopee   | 2x       | 3.15            |
+| Shipping     | Electronics Shipping        | SPX Express International    |                                                                                                                                                                                                                          | Shopee   | 4x       | 5.20            |
+| Shipping     | Fasteners Shipping          | SPX Express International    |                                                                                                                                                                                                                          | Shopee   | 2x       | 2.60            |
+| Shipping     | Gaskets Shipping            | SPX Express                  |                                                                                                                                                                                                                          | Shopee   | 1x       | 1.30            |
+|              |                             |                              | *Do take note this list excludes some parts because I already have them at home, or parts that I plan to pay for myself*                                                                   |          |          | **Grand Total: 135.30** |
+
+
+## Excluded Items
+
+- Switches
+- Keycaps
+- Diodes
+- 4.7k resistor
+- 10uF capacitors
