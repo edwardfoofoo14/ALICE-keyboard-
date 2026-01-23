@@ -86,6 +86,12 @@ https://github.com/user-attachments/assets/cd191653-9d43-4bff-b9b6-e710f8436f32
 
 ---
 
+## Wiring
+The wiring is extremely simple. Just connect the cables between the keyboard PCB and USB-C breakout board following the labels on the silkscreen
+
+Depending on the type of USB-C breakout boards used, CC1 and CC2 pins may or may not require 5.1kΩ pull down. The Sparkfun boards have two resistors that are already soldered.
+![Wiring Diagram](/misc/wiringDiagram.png)
+
 ## Bill of Material
 
 Note: The prices in USD are converted as of 7 January 2026 and prices may fluctuate
