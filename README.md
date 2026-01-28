@@ -96,32 +96,31 @@ Depending on the type of USB-C breakout boards used, CC1 and CC2 pins may or may
 
 Note: The prices in USD are converted as of 7 January 2026 and prices may fluctuate
 
-| Category     | Item Name                  | Part Number / File Name       | Link                                                                                                                                                                                                                     | Vendor   | Quantity | Total Price (USD) |
-|--------------|----------------------------|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|----------|-----------------|
-| Electronics  | ESP32-S3-WROOM-1-N16-R2    | ESP32-S3-WROOM-1-N16-R2      | [Link](https://shopee.com.my/ESP32-S3-ESP32-S3-WROOM-1-1U-ESP32-S3-MINI-1U-4MB-8MB-16MB-N4-N4R2-N4R8-N8-N8R2-N8R8-N16-N16R2-N16R8-WiFi-Ble-5.0-Module-i.1649836180.43173884048)                                     | Shopee   | 1x       | 6.53            |
-| Electronics  | SK6812 MINI-E               |                              | [Link](https://shopee.com.my/100PCS-SK6812-MINI-E-RGB-(Similar-WS2812B)-SK6812-3228-SMD-Pixels-LED-Chip-Individually-Addressable-Full-Color-DC-5V-i.201200871.29163981070)                                                | Shopee   | 100x     | 2.80            |
-| Electronics  | 1206 100nF Capacitor        |                              | [Link](https://shopee.com.my/100pcs-1206-3216-SMD-Chip-Ceramic-Capacitor-1NF-2.2NF-10NF-22NF-100NF-1uF-2.2uF-4.7uF-10uF-22uF-47uF-100uF-6.3V-10V-16V-25V-50V-i.1649836180.51152484650)                             | Shopee   | 100x     | 0.35            |
-| Electronics  | Hotswap Sockets             |                              | [Link](https://shopee.com.my/redsunaa-Hot-Swap-Socket-For-Kailh-CPG151101S11-for-Mechanical-Keyboard-Switch-Pcb-Base-i.1336977141.27113734076)                                                                            | Shopee   | 100x     | 9.95            |
-| Electronics  | USB-C Breakout Board        |                              | [Link](https://shopee.com.my/Pcbfun-USB-Type-C-Connector-Board-DIY-3.1-Serial-Basic-Breakout-Female-Connector-Type-C-Breakout-Board-for-Data-Line-Wire-Cable-Transfer-i.175472467.29872006322)                               | Shopee   | 1x       | 0.80            |
-| Production   | PCB                         | gerbers.zip                  |                                                                                                                                                                                                                          | JLCPCB   | 1x       | 23.00           |
-| Production   | A3 Acrylic Plate            | A3_3mm_Acrylic               | [Link](https://shopee.com.my/-A3-SIZE-3mm-Acrylic-sheet-Ready-stock-Cast-acrylic-i.1161316960.41355571810)                                                                                                              | Shopee   | 10x      | 49.10           |
-| Production   | A3 Acrylic Plate            | A3_3mm_Acrylic               | [Link](https://shopee.com.my/-A3-SIZE-3mm-Acrylic-sheet-Ready-stock-Cast-acrylic-i.1161316960.41355571810)                                                                                                              | Shopee   | 1x       | 5.95            |
-| Fasteners    | M5*35mm Hex Screws          |                              | [Link](https://shopee.com.my/Button-Head-Screw-Black-304-Stainless-Steel-SHINY-SURFACE-Allen-Bolt-DIN7380-Skru-Ellenkey-Hex-Socket-Button-Head-Screw-ISO7380-SUS-Black-304-Stainless-Steel-Allen-Key-Screw-Mushroom-Skru-M2-M2.5-M3-M4-M5-M6-M8-*-L3-60mm-(ZHX-LD-MY-1)-i.1617822917.41220311575) | Shopee   | 10x      | 3.55            |
-| Fasteners    | M5 Nuts                     |                              | [Link](https://shopee.com.my/-HKH-Hexagon-Nut-M2-M2.5-M2.6-M3-M3.5-M4-M5-M6-M8-M10-M12-Black-arbon-Steel-Hexagon-Nut-Screw-Cap-i.1435573023.27623483039)                                                                 | Shopee   | 50x      | 0.55            |
-| Misc         | Stabilisers                 |                              | [Link](https://shopee.com.my/Kelowna-Link-Studio-PCB-Screw-in-Stabilizers-Mechanical-Keyboard-i.71961069.12272946569)                                                                                                   | Shopee   | 1x       | 7.40            |
-| Misc         | Gaskets                     |                              | [Link](https://shopee.com.my/Gasket-Strip-Poron-black-only-i.1034684783.25753214842)                                                                                                                                    | Shopee   | 1x       | 3.20            |
-| Shipping     | PCB Shipping                | E-POST                       |                                                                                                                                                                                                                          | JLCPCB   | 1x       | 9.87            |
-| Shipping     | Acrylic Shipping            | SPX Express                  |                                                                                                                                                                                                                          | Shopee   | 2x       | 3.15            |
-| Shipping     | Electronics Shipping        | SPX Express International    |                                                                                                                                                                                                                          | Shopee   | 4x       | 5.20            |
-| Shipping     | Fasteners Shipping          | SPX Express International    |                                                                                                                                                                                                                          | Shopee   | 2x       | 2.60            |
-| Shipping     | Gaskets Shipping            | SPX Express                  |                                                                                                                                                                                                                          | Shopee   | 1x       | 1.30            |
-|              |                             |                              | *Do take note this list excludes some parts because I already have them at home, or parts that I plan to pay for myself*                                                                   |          |          | **Grand Total: 135.30** |
+| Category | Item Name | Part Number / File Name | Link | Vendor | Quantity | Total Price (USD) |
+|---|---|---|---|---|---|---|
+| Electronics | ESP32-S3-WROOM-1-N16-R2 | ESP32-S3-WROOM-1-N16-R2 | [Link](https://shopee.com.my/ESP32-S3-ESP32-S3-WROOM-1-1U-ESP32-S3-MINI-1U-4MB-8MB-16MB-N4-N4R2-N4R8-N8-N8R2-N8R8-N16-N16R2-N16R8-WiFi-Ble-5.0-Module-i.1649836180.43173884048) | Shopee | 1x | 6.53 |
+| Electronics | SK6812 MINI-E | | [Link](https://shopee.com.my/100PCS-SK6812-MINI-E-RGB-(Similar-WS2812B)-SK6812-3228-SMD-Pixels-LED-Chip-Individually-Addressable-Full-Color-DC-5V-i.201200871.29163981070) | Shopee | 100x | 2.80 |
+| Electronics | 1206 100nF Capacitor | | [Link](https://shopee.com.my/100pcs-1206-3216-SMD-Chip-Ceramic-Capacitor-1NF-2.2NF-10NF-22NF-100NF-1uF-2.2uF-4.7uF-10uF-22uF-47uF-100uF-6.3V-10V-16V-25V-50V-i.1649836180.51152484650) | Shopee | 100x | 0.35 |
+| Electronics | Hotswap Sockets | | [Link](https://shopee.com.my/redsunaa-Hot-Swap-Socket-For-Kailh-CPG151101S11-for-Mechanical-Keyboard-Switch-Pcb-Base-i.1336977141.27113734076) | Shopee | 100x | 9.95 |
+| Electronics | USB-C Breakout Board | | [Link](https://shopee.com.my/Pcbfun-USB-Type-C-Connector-Board-DIY-3.1-Serial-Basic-Breakout-Female-Connector-Type-C-Breakout-Board-for-Data-Line-Wire-Cable-Transfer-i.175472467.29872006322) | Shopee | 1x | 0.80 |
+| Production | PCB | gerbers.zip | | JLCPCB | 1x | 23.00 |
+| Fasteners | M5*35mm Hex Screws | | [Link](https://shopee.com.my/Button-Head-Screw-Black-304-Stainless-Steel-SHINY-SURFACE-Allen-Bolt-DIN7380-Skru-Ellenkey-Hex-Socket-Button-Head-Screw-ISO7380-SUS-Black-304-Stainless-Steel-Allen-Key-Screw-Mushroom-Skru-M2-M2.5-M3-M4-M5-M6-M8-*-L3-60mm-(ZHX-LD-MY-1)-i.1617822917.41220311575) | Shopee | 10x | 3.55 |
+| Fasteners | M5 Nuts | | [Link](https://shopee.com.my/-HKH-Hexagon-Nut-M2-M2.5-M2.6-M3-M3.5-M4-M5-M6-M8-M10-M12-Black-arbon-Steel-Hexagon-Nut-Screw-Cap-i.1435573023.27623483039) | Shopee | 50x | 0.55 |
+| Misc | Stabilisers | | [Link](https://shopee.com.my/Kelowna-Link-Studio-PCB-Screw-in-Stabilizers-Mechanical-Keyboard-i.71961069.12272946569) | Shopee | 1x | 7.40 |
+| Misc | Gaskets | | [Link](https://shopee.com.my/Gasket-Strip-Poron-black-only-i.1034684783.25753214842) | Shopee | 1x | 3.20 |
+| Misc | Switches | | [Link](https://shopee.com.my/Outemu-Honey-Peach-Silent-Linear-Switch-for-Mechanical-Keyboards-i.72068395.11794425429) | Shopee | 1x | 22.90 |
+| Shipping | PCB Shipping | E-POST | | JLCPCB | 1x | 9.87 |
+| Shipping | Switches Shipping | SPX Express International | | Shopee | 1x | 0.00 |
+| Shipping | Electronics Shipping | SPX Express International | | Shopee | 4x | 5.20 |
+| Shipping | Fasteners Shipping | SPX Express International | | Shopee | 2x | 2.60 |
+| Shipping | Gaskets Shipping | SPX Express | | Shopee | 1x | 1.30 |
+| | | | *Do take note this list excludes some parts that hack club isn't paying for, required parts to build the keyboard is in the excluded list in the readme* | | **Grand Total:** | **100.00** |
 
 
 ## Excluded Items
 
-- Switches
 - Keycaps
 - Diodes
 - 4.7k resistor
 - 10uF capacitors
+- A3 3mm acrylic plates
