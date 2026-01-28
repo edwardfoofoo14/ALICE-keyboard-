@@ -108,7 +108,7 @@ Note: The prices in USD are converted as of 7 January 2026 and prices may fluctu
 | Fasteners | M5 Nuts | | [Link](https://shopee.com.my/-HKH-Hexagon-Nut-M2-M2.5-M2.6-M3-M3.5-M4-M5-M6-M8-M10-M12-Black-arbon-Steel-Hexagon-Nut-Screw-Cap-i.1435573023.27623483039) | Shopee | 50x | 0.55 |
 | Misc | Stabilisers | | [Link](https://shopee.com.my/Kelowna-Link-Studio-PCB-Screw-in-Stabilizers-Mechanical-Keyboard-i.71961069.12272946569) | Shopee | 1x | 7.40 |
 | Misc | Gaskets | | [Link](https://shopee.com.my/Gasket-Strip-Poron-black-only-i.1034684783.25753214842) | Shopee | 1x | 3.20 |
-| Misc | Switches | | [Link](https://shopee.com.my/Outemu-Honey-Peach-Silent-Linear-Switch-for-Mechanical-Keyboards-i.72068395.11794425429) | Shopee | 1x | 22.90 |
+| Misc | Switches | | [Link](https://shopee.com.my/Outemu-Honey-Peach-Silent-Linear-Switch-for-Mechanical-Keyboards-i.72068395.11794425429) | Shopee | 82x | 22.90 |
 | Shipping | PCB Shipping | E-POST | | JLCPCB | 1x | 9.87 |
 | Shipping | Switches Shipping | SPX Express International | | Shopee | 1x | 0.00 |
 | Shipping | Electronics Shipping | SPX Express International | | Shopee | 4x | 5.20 |
